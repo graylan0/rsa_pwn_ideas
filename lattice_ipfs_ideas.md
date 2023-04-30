@@ -1,3 +1,4 @@
+```
 Model: Plugins
 ALPHA
 •
@@ -889,3 +890,4 @@ Data Integrity: IPFS inherently provides data integrity through content addressi
 Privacy: Consider the privacy implications of storing data on IPFS, especially if the data is publicly accessible. Anonymization and data minimization techniques should be applied as needed.
 Network Security: Secure the IPFS nodes and network connections to prevent unauthorized access and man-in-the-middle attacks.
 As with any technology, it's important to conduct thorough security assessments and testing before deploying IPFS-based security systems in a production environment. Consulting with security experts is recommended to ensure that the system meets the necessary security standards.
+```
