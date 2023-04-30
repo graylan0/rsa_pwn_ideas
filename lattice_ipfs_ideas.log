@@ -7,7 +7,7 @@ Wolfram logo
 
 User
 can you help me convert this to use Secrets 
-```
+
 import json
 import torch
 import time
